@@ -9,6 +9,19 @@
 
 ---
 
+## 🖼️ Gameplay Preview
+
+<!-- TODO: Add gameplay screenshot here -->
+_[Screenshot coming soon - run the game to see it in action!]_
+
+**Assets Preview:**
+- 🚀 Rocket Ship (Player)
+- 👾 UFO Enemies
+- 💥 Bullet Projectiles
+- 🌌 Galaxy Background
+
+---
+
 ## 📖 About
 
 **MySpaceInavder** is a retro-style space shooter game where you defend Earth from incoming UFO invaders! Control your rocket ship, shoot down enemies, and try to reach the target score before missing too many ships.
@@ -219,6 +232,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Sounds:** 2 (music + SFX)
 - **Target Score:** 10 UFOs
 - **Max Lives:** 3 misses
+
+---
+
+## 🏷️ GitHub Topics
+
+**Recommended topics for this repository:**
+`pygame` `python` `game` `shooter` `arcade` `space-invaders` `retro-game` `2d-game` `game-development` `pyinstaller`
+
+Add these topics via: **Settings** → **Topics** → Enter keywords
 
 ---
 
